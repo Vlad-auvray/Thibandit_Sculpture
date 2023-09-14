@@ -280,6 +280,10 @@ body {
     color: #011325;
   }
 
+  #shop a{
+    color:#654C4B;
+  }
+
   .socials{
     display: flex;
     justify-content: center;
